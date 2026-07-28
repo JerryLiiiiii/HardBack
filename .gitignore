@@ -1,0 +1,42 @@
+## User settings
+xcuserdata/
+
+## Obj-C/Swift specific
+*.hmap
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# macOS System Files
+.DS_Store
+.Trashes
+
+# Derived Data
+DerivedData/
+build/
+
+# Credentials & Private Configs
+*.p12
+*.cer
+*.mobileprovision
+*.env
+Secrets.xcconfig
+
+# Gemini Chat History
+GeminiChat.pdf
