@@ -38,5 +38,8 @@ build/
 *.env
 Secrets.xcconfig
 
-# Gemini Chat History
-GeminiChat.pdf
+# AI Chat History
+/Chat/
+
+# Product Research Report
+product_research.md
